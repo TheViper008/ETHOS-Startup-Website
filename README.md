@@ -1,7 +1,5 @@
 # ETHOS
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://shields.io) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -49,22 +47,10 @@ ETHOS is a startup company dedicated to teaching students about public speaking.
    source env/bin/activate  # On Windows use `env\Scripts\activate`
    ```
 
-3. Set up the database:
-   ```sh
-   python manage.py migrate
-   ```
-
-4. Run the development server:
+3. Run the development server:
    ```sh
    python manage.py runserver
    ```
-
-### Configuration
-
-Make sure to configure the following settings in `settings.py`:
-- `DATABASES`
-- `ALLOWED_HOSTS`
-- `INSTALLED_APPS`
 
 ## Usage
 
