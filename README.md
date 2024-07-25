@@ -8,11 +8,8 @@
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
+
 
 ## Project Overview
 
