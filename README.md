@@ -39,8 +39,8 @@ ETHOS is a startup company dedicated to teaching students about public speaking.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/TheViper008/Website-for-a-Startup-Company.git
-   cd myproject
+   git clone https://github.com/TheViper008/ETHOS-Startup-Website.git
+   cd ETHOS-Startup-Website/myproject
    ```
 
 2. Create a virtual environment and activate it:
